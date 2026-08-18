@@ -1,0 +1,8 @@
+node_modules/
+.env
+*.log
+
+# Flutter
+app/.dart_tool/
+app/build/
+app/.flutter-plugins*
